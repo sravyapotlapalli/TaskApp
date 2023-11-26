@@ -41,8 +41,9 @@ This is the detailed description of the steps I have followed.
     - Create the user interface for your Flutter app, including screens for viewing and managing 
     tasks.
 
-10.Tested the App:
-    - Tested my Flutter app to ensure that it successfully communicating with the Back4App backend 
+10.Tested and Running the App:
+    - Tested my Flutter app by using Flutter Device selection as chrome web on Android Studio and Ran the app. 
+    -To ensure that it successfully communicating with the Back4App backend 
     and performed task management operations correctly.
 
 11.Handled Errors and Edge Cases:
